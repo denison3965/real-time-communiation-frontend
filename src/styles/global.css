@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Roboto, sans-serif;
+}
+
+body {
+    color: #e1e1e6;
+    background: #121214;
+}
+
+:root {
+    --fundo-color: #121214;
+    --secondary-color: #17171a;
+    --tirty-color: #1b1b1f;
+    --fourth-color: #202024;
+    --fifth-color: #29292e;
+    --button-primary-color: #ffcd1e;
+    --font-button-color: #09090a;
+    --gradient-primary-color: #ff008e;
+    --gradient-second-color: #ffcd1e;
+}
