@@ -1,15 +1,7 @@
 # real-time-communiation-frontend
 
-# real-time-communiation
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/pablogiaccon/nlw-heat-web">
-    <img src="github/images/logo.svg" alt="Logo" width="280" height="24">
-  </a>
-
-  <h3 align="center">Next Level Week Heat</h3>
-</p>
+![Preview-Screens](https://github.com/denison3965/real-time-communiation-frontend/blob/master/Captura%20de%20tela%20de%202021-12-29%2017-13-07.png)
+![Preview-Screens](https://github.com/denison3965/real-time-communiation-frontend/blob/master/Captura%20de%20tela%20de%202021-12-29%2017-13-20.png)
 
 <!-- ABOUT THE PROJECT -->
 
@@ -39,7 +31,7 @@
 
 ## Getting Started
 
-For this project, the backend project needs to be running, you can find it at <a href="https://github.com/pablogiaccon/nlw-heat-node" target="_blank" rel="noopener noreferrer">project back-end node</a> 
+For this project, the backend project needs to be running, you can find it at <a href="https://github.com/denison3965/real-time-communiation" target="_blank" rel="noopener noreferrer">project back-end node</a> 
 
 First, clone the repository and move to the file
 
@@ -95,19 +87,4 @@ Denison de Almeida Portela - denisondealmeidaprtela@hotmal.com
 - [Axios](https://axios-http.com/docs/intro)
 - [React Icons](https://react-icons.github.io/react-icons/)
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/pablogiaccon/nlw-heat-web.svg?style=for-the-badge
-[contributors-url]: https://github.com/pablogiaccon/nlw-heat-web/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/pablogiaccon/nlw-heat-web.svg?style=for-the-badge
-[forks-url]: https://github.com/pablogiaccon/nlw-heat-web/network/members
-[stars-shield]: https://img.shields.io/github/stars/pablogiaccon/nlw-heat-web.svg?style=for-the-badge
-[stars-url]: https://github.com/pablogiaccon/nlw-heat-web/stargazers
-[issues-shield]: https://img.shields.io/github/issues/pablogiaccon/nlw-heat-web.svg?style=for-the-badge
-[issues-url]: https://github.com/pablogiaccon/nlw-heat-web/issues
-[license-shield]: https://img.shields.io/github/license/pablogiaccon/nlw-heat-web.svg?style=for-the-badge
-[license-url]: https://github.com/pablogiaccon/nlw-heat-web/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/pablogiaccon
-[product-screenshot]: github/images/screenshot.png
